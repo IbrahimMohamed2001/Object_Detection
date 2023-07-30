@@ -50,7 +50,7 @@ The YOLOv5 model has been trained and fine-tuned to detect the following polluti
 ## Sample Results
 Here is a sample of the work done in this repository. The video below demonstrates the YOLOv5 model's performance in detecting pollution manifestations within images:
 
-[Click here to watch the video](Object Detection.mp4)
+![Click here to watch the video](Object Detection.mp4)
 
 The video showcases the detection of various pollution categories in real-world images, demonstrating the model's capabilities in identifying environmental issues prevalent in modern cities.
 
